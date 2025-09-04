@@ -38,11 +38,10 @@ If you’re interested in building technology that drives real results, feel fre
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,nodejs,nextjs,tailwindcss,aws,react,typescript,vite,mongo,mysql,postgresql"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github,gitlab,git,vercel"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,nodejs,nextjs,tailwindcss,aws,react,typescript,vite,mongo,mysql,postgresql"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github,gitlab,git,vercel,dooker,figma"/> |
 
 </div>
 
-<br>
 <br>
 <br>
 <br>
@@ -64,6 +63,7 @@ If you’re interested in building technology that drives real results, feel fre
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 
+<br>
 <br>
 <br>
 <br>
