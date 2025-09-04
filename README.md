@@ -45,7 +45,7 @@ If you’re interested in building technology that drives real results, feel fre
 
 <div align="Center">
 <h1>Operating Systems</h1>
-
+<br>
 <img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
 
 </div>
