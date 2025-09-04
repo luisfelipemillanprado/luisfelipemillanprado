@@ -45,6 +45,7 @@ If you’re interested in building technology that drives real results, feel fre
 <br>
 <br>
 <br>
+<br>
 
 <div align="Center">
 <h1>Operating Systems</h1>
@@ -53,6 +54,7 @@ If you’re interested in building technology that drives real results, feel fre
 
 </div>
 
+<br>
 <br>
 <br>
 <br>
