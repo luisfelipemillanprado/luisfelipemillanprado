@@ -70,6 +70,3 @@ If you’re interested in building technology that drives real results, feel fre
 </div>
 
 ------
-
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
