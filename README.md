@@ -38,7 +38,7 @@ If you’re interested in building technology that drives real results, feel fre
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,nodejs,nextjs,tailwindcss,aws,react,typescript,vite,mongo,mysql,postgresql"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github,gitlab,git,vercel,dooker,figma"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,nodejs,nextjs,tailwindcss,aws,react,typescript,vite,mongo,mysql,postgresql"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github,gitlab,git,vercel,docker,figma"/> |
 
 </div>
 
