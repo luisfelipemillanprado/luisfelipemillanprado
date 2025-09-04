@@ -55,6 +55,7 @@ If you’re interested in building technology that drives real results, feel fre
 
 <br>
 <br>
+<br>
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
@@ -63,7 +64,7 @@ If you’re interested in building technology that drives real results, feel fre
 
 <br>
 <br>
-
+<br>
 <div align="Center">
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
